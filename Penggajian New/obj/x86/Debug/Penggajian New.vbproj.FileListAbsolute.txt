@@ -1,0 +1,15 @@
+C:\Documents and Settings\roma\my documents\visual studio 2010\Projects\Penggajian New\Penggajian New\bin\Debug\Penggajian New.exe.config
+C:\Documents and Settings\roma\my documents\visual studio 2010\Projects\Penggajian New\Penggajian New\bin\Debug\Penggajian New.exe
+C:\Documents and Settings\roma\my documents\visual studio 2010\Projects\Penggajian New\Penggajian New\bin\Debug\Penggajian New.pdb
+C:\Documents and Settings\roma\my documents\visual studio 2010\Projects\Penggajian New\Penggajian New\bin\Debug\Penggajian New.xml
+C:\Documents and Settings\roma\my documents\visual studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\roma\my documents\visual studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\Penggajian_New.Resources.resources
+C:\Documents and Settings\roma\my documents\visual studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\Penggajian_New.User.resources
+C:\Documents and Settings\roma\my documents\visual studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\roma\my documents\visual studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\roma\my documents\visual studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\Penggajian New.exe
+C:\Documents and Settings\roma\my documents\visual studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\Penggajian New.xml
+C:\Documents and Settings\roma\my documents\visual studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\Penggajian New.pdb
+C:\Documents and Settings\roma\my documents\visual studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\Penggajian_New.EntryDataGaji.resources
+C:\Documents and Settings\roma\my documents\visual studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\Penggajian_New.HRD.resources
+C:\Documents and Settings\roma\my documents\visual studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\Penggajian_New.karyawan.resources

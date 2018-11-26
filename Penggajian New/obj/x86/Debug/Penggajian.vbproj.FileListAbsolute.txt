@@ -1,0 +1,170 @@
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian New\Penggajian New\bin\Debug\Penggajian.exe.config
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian New\Penggajian New\bin\Debug\Penggajian.exe
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian New\Penggajian New\bin\Debug\Penggajian.pdb
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian New\Penggajian New\bin\Debug\Penggajian.xml
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\Penggajian.EntryDataGaji.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\Penggajian.HRD.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\Penggajian.karyawan.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\Penggajian.Resources.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\Penggajian.User.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\Penggajian.exe
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\Penggajian.xml
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian New\Penggajian New\obj\x86\Debug\Penggajian.pdb
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian\Penggajian New\bin\Debug\Penggajian.exe.config
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian\Penggajian New\obj\x86\Debug\Penggajian.exe
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian\Penggajian New\obj\x86\Debug\Penggajian.xml
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian\Penggajian New\obj\x86\Debug\Penggajian.pdb
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian\Penggajian New\bin\Debug\Penggajian.exe
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian\Penggajian New\bin\Debug\Penggajian.pdb
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian\Penggajian New\bin\Debug\Penggajian.xml
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian\Penggajian New\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian\Penggajian New\obj\x86\Debug\Penggajian.EntryDataGaji.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian\Penggajian New\obj\x86\Debug\Penggajian.HRD.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian\Penggajian New\obj\x86\Debug\Penggajian.karyawan.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian\Penggajian New\obj\x86\Debug\Penggajian.Resources.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian\Penggajian New\obj\x86\Debug\Penggajian.User.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian\Penggajian New\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian\Penggajian New\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian\Penggajian New\obj\x86\Debug\Penggajian.Menu.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian\Penggajian New\bin\Debug\Penggajian.exe.manifest
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian\Penggajian New\bin\Debug\Penggajian.application
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian\Penggajian New\obj\x86\Debug\Penggajian.exe.manifest
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\Penggajian\Penggajian New\obj\x86\Debug\Penggajian.application
+A:\1\Penggajian New\bin\Debug\Penggajian.exe.config
+A:\1\Penggajian New\obj\x86\Debug\Penggajian.exe
+A:\1\Penggajian New\obj\x86\Debug\Penggajian.xml
+A:\1\Penggajian New\obj\x86\Debug\Penggajian.pdb
+A:\1\Penggajian New\bin\Debug\Penggajian.exe.manifest
+A:\1\Penggajian New\bin\Debug\Penggajian.application
+A:\1\Penggajian New\bin\Debug\Penggajian.exe
+A:\1\Penggajian New\bin\Debug\Penggajian.pdb
+A:\1\Penggajian New\bin\Debug\Penggajian.xml
+A:\1\Penggajian New\obj\x86\Debug\Penggajian.EntryDataGaji.resources
+A:\1\Penggajian New\obj\x86\Debug\Penggajian.HRD.resources
+A:\1\Penggajian New\obj\x86\Debug\Penggajian.karyawan.resources
+A:\1\Penggajian New\obj\x86\Debug\Penggajian.Resources.resources
+A:\1\Penggajian New\obj\x86\Debug\Penggajian.User.resources
+A:\1\Penggajian New\obj\x86\Debug\Penggajian.vbproj.GenerateResource.Cache
+A:\1\Penggajian New\obj\x86\Debug\Penggajian.exe.manifest
+A:\1\Penggajian New\obj\x86\Debug\Penggajian.application
+A:\1\Penggajian New\obj\x86\Debug\Penggajian.Utama.resources
+A:\UAS PEMROGRAMAN\Penggajian New\bin\Debug\Penggajian.exe.config
+A:\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.exe
+A:\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.xml
+A:\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.pdb
+A:\UAS PEMROGRAMAN\Penggajian New\bin\Debug\Penggajian.exe.manifest
+A:\UAS PEMROGRAMAN\Penggajian New\bin\Debug\Penggajian.application
+A:\UAS PEMROGRAMAN\Penggajian New\bin\Debug\Penggajian.exe
+A:\UAS PEMROGRAMAN\Penggajian New\bin\Debug\Penggajian.pdb
+A:\UAS PEMROGRAMAN\Penggajian New\bin\Debug\Penggajian.xml
+A:\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.EntryDataGaji.resources
+A:\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.HRD.resources
+A:\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.karyawan.resources
+A:\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.Resources.resources
+A:\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.User.resources
+A:\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.vbproj.GenerateResource.Cache
+A:\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.exe.manifest
+A:\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.application
+A:\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.login.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\bin\Debug\Penggajian.exe.config
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.exe
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.xml
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.pdb
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\bin\Debug\Penggajian.exe.manifest
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\bin\Debug\Penggajian.application
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\bin\Debug\Penggajian.exe
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\bin\Debug\Penggajian.pdb
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\bin\Debug\Penggajian.xml
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.EntryDataGaji.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.HRD.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.karyawan.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.login.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.Resources.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.User.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.exe.manifest
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.application
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.Admin.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.CreateUser.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.FormulirHRD.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.Menu_HRD.resources
+A:\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.FormulirHRD.resources
+A:\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.CreateUser.resources
+A:\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.Admin.resources
+A:\UAS PEMROGRAMAN\Penggajian New\obj\x86\Debug\Penggajian.Menu_HRD.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\bin\Debug\Penggajian.exe.config
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\obj\x86\Debug\Penggajian.exe
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\obj\x86\Debug\Penggajian.xml
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\obj\x86\Debug\Penggajian.pdb
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\bin\Debug\Penggajian.exe.manifest
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\bin\Debug\Penggajian.application
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\bin\Debug\Penggajian.exe
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\bin\Debug\Penggajian.pdb
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\bin\Debug\Penggajian.xml
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\obj\x86\Debug\Penggajian.EntryDataGaji.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\obj\x86\Debug\Penggajian.FormulirHRD.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\obj\x86\Debug\Penggajian.HRD.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\obj\x86\Debug\Penggajian.karyawan.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\obj\x86\Debug\Penggajian.login.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\obj\x86\Debug\Penggajian.CreateUser.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\obj\x86\Debug\Penggajian.Admin.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\obj\x86\Debug\Penggajian.Menu_HRD.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\obj\x86\Debug\Penggajian.Resources.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\obj\x86\Debug\Penggajian.User.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\obj\x86\Debug\Penggajian.vbproj.GenerateResource.Cache
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\obj\x86\Debug\Penggajian.exe.manifest
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\obj\x86\Debug\Penggajian.application
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX\Penggajian New\obj\x86\Debug\Penggajian.Tester.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\bin\Debug\Penggajian.exe.config
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\obj\x86\Debug\Penggajian.exe
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\obj\x86\Debug\Penggajian.xml
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\obj\x86\Debug\Penggajian.pdb
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\bin\Debug\Penggajian.exe.manifest
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\bin\Debug\Penggajian.application
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\bin\Debug\Penggajian.exe
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\bin\Debug\Penggajian.pdb
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\bin\Debug\Penggajian.xml
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\obj\x86\Debug\Penggajian.EntryDataGaji.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\obj\x86\Debug\Penggajian.FormulirHRD.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\obj\x86\Debug\Penggajian.HRD.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\obj\x86\Debug\Penggajian.karyawan.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\obj\x86\Debug\Penggajian.login.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\obj\x86\Debug\Penggajian.CreateUser.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\obj\x86\Debug\Penggajian.Admin.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\obj\x86\Debug\Penggajian.Menu_HRD.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\obj\x86\Debug\Penggajian.Resources.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\obj\x86\Debug\Penggajian.User.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\obj\x86\Debug\Penggajian.vbproj.GenerateResource.Cache
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\obj\x86\Debug\Penggajian.exe.manifest
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2\Penggajian New\obj\x86\Debug\Penggajian.application
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\bin\Debug\Penggajian.exe.config
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.exe
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.xml
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.pdb
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\bin\Debug\Penggajian.exe.manifest
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\bin\Debug\Penggajian.application
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\bin\Debug\Penggajian.exe
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\bin\Debug\Penggajian.pdb
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\bin\Debug\Penggajian.xml
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.EntryDataGaji.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.FormulirHRD.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.HRD.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.karyawan.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.login.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.CreateUser.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.Admin.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.Menu_HRD.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.Resources.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.User.resources
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.vbproj.GenerateResource.Cache
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.exe.manifest
+C:\Users\roma2\Documents\Visual Studio 2010\Projects\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.application
+D:\File Kuliah\Pemrograman III\UAS\UAS PEMROGRAMAN FIX V2 - !00%\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\bin\Debug\Penggajian.exe.config
+D:\File Kuliah\Pemrograman III\UAS\UAS PEMROGRAMAN FIX V2 - !00%\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.exe
+D:\File Kuliah\Pemrograman III\UAS\UAS PEMROGRAMAN FIX V2 - !00%\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.xml
+D:\File Kuliah\Pemrograman III\UAS\UAS PEMROGRAMAN FIX V2 - !00%\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.pdb

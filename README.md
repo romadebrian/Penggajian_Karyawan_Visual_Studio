@@ -1,9 +1,9 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-System Requirement
-Visual Studio 2010 keatas
-MySQL Connector/NET
+<b> System Requirement </b> </br>
+Visual Studio 2010 keatas </br>
+MySQL Connector/NET </br>
 
 <div>
   <center>

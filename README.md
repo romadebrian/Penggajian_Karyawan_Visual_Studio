@@ -1,6 +1,3 @@
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
 <b> System Requirement </b> </br>
 Visual Studio 2010 keatas </br>
 MySQL Connector/NET </br>

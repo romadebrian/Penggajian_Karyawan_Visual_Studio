@@ -1,6 +1,6 @@
 <b> System Requirement </b> </br>
-Visual Studio 2010 keatas </br>
-MySQL Connector/NET </br>
+<li>Visual Studio 2010 keatas</li>
+<li>MySQL Connector/NET</li>
 
 <div>
   <center>

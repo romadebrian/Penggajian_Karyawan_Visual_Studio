@@ -65,7 +65,7 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>A9801F5F5D0744DBD2B19E1197C68F3C097D478B</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>B734E6915C4B696D6A5F81EADA4FED13B438C2EC</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestKeyFile>Penggajian_TemporaryKey.pfx</ManifestKeyFile>

@@ -1,0 +1,15 @@
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Release\Penggajian.EntryDataGaji.resources
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Release\Penggajian.FormulirHRD.resources
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Release\Penggajian.HRD.resources
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Release\Penggajian.karyawan.resources
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Release\Penggajian.login.resources
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Release\Penggajian.CreateUser.resources
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Release\Penggajian.Admin.resources
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Release\Penggajian.Menu_HRD.resources
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Release\Penggajian.Resources.resources
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Release\Penggajian.User.resources
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Release\Penggajian.vbproj.GenerateResource.cache
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Release\Penggajian.vbproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Release\Penggajian.exe
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Release\Penggajian.xml
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Release\Penggajian.pdb

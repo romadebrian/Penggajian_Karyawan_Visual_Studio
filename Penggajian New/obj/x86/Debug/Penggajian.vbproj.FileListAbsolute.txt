@@ -168,3 +168,29 @@ D:\File Kuliah\Pemrograman III\UAS\UAS PEMROGRAMAN FIX V2 - !00%\UAS PEMROGRAMAN
 D:\File Kuliah\Pemrograman III\UAS\UAS PEMROGRAMAN FIX V2 - !00%\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.exe
 D:\File Kuliah\Pemrograman III\UAS\UAS PEMROGRAMAN FIX V2 - !00%\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.xml
 D:\File Kuliah\Pemrograman III\UAS\UAS PEMROGRAMAN FIX V2 - !00%\UAS PEMROGRAMAN FIX V2 - Warna Mati\Penggajian New\obj\x86\Debug\Penggajian.pdb
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Debug\Penggajian.vbproj.AssemblyReference.cache
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Debug\Penggajian.EntryDataGaji.resources
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Debug\Penggajian.FormulirHRD.resources
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Debug\Penggajian.HRD.resources
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Debug\Penggajian.karyawan.resources
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Debug\Penggajian.login.resources
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Debug\Penggajian.CreateUser.resources
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Debug\Penggajian.Admin.resources
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Debug\Penggajian.Menu_HRD.resources
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Debug\Penggajian.Resources.resources
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Debug\Penggajian.User.resources
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Debug\Penggajian.vbproj.GenerateResource.cache
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Debug\Penggajian.vbproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Debug\Penggajian.exe
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Debug\Penggajian.xml
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Debug\Penggajian.pdb
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\bin\Debug\Penggajian.exe.config
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\bin\Debug\Penggajian.exe.manifest
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\bin\Debug\Penggajian.application
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\bin\Debug\Penggajian.exe
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\bin\Debug\Penggajian.pdb
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\bin\Debug\Penggajian.xml
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\bin\Debug\MySql.Data.dll
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Debug\Penggajian.exe.manifest
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Debug\Penggajian.application
+C:\Users\asus\Documents\GitHub\Penggajian_Karyawan_Visual_Studio\Penggajian New\obj\x86\Debug\Penggajian.vbproj.CopyComplete

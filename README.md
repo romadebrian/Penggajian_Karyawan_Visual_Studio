@@ -1,6 +1,6 @@
 <b> System Requirement </b> </br>
 <li>Visual Studio 2010 keatas</li>
-<li>MySQL Connector/NET</li>
+<li>MySQL Connector/NET 6.6.7 sampai 6.9.8 (kalo pake lebih dari itu gak bisa / harus di ubah codenya supaya bisa ke versi 7.0.0</li>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
